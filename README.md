@@ -9,9 +9,9 @@ Note: Replace <function_name> with actual function name. This will do the follow
 - update serverless.yml and add the function handler under functions.
 
 #### Test the newly created function using the mocha plugin
-$ mocha src/tests
+```$ mocha src/tests```
 
-Start building your serverless appliction from here!
+_Start building your serverless appliction from here!_
 
 
 ### Prerequisites:
