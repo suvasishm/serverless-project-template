@@ -62,8 +62,6 @@ provider:
 functions:
   testFunction:
     handler: src/functions/testFunction.testFunction
-  serverlessFunction:
-    handler: src/functions/serverlessFunction.serverlessFunction
   hello:
     handler: handler.hello
 #    The following are a few example events you can configure
