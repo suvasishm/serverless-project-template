@@ -29,3 +29,5 @@ Note: The above would add a plugins section in the serverless.yml
 ```$ npm install --save-dev aws-sdk-mock```
 
 ```$ npm install --save-dev mocha```
+
+Ref: https://www.serverless.com/learn/tutorial/template-and-local-testing/
